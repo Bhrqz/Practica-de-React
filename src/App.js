@@ -1,5 +1,8 @@
 import React from "react";
 import Contador from './components/Contador';
+import Jsx from './components/Jsx';
+import Lista from './components/Lista';
+
 
 function App() {
   return (
@@ -8,6 +11,8 @@ function App() {
         Hey
       </h1>
           <Contador/>
+          <Jsx/>
+          <Lista/>
     </div>
   );
 }
