@@ -1,3 +1,6 @@
+Practica de REACT creada a partir de tutoriales en internet
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
